@@ -50,7 +50,7 @@ O projeto **Casa Inteligente** tem como objetivo criar um sistema de automação
 
 # Código (Esp32)
 
-<li><a href="Codigo/README.md"> Código Fonte (.ino)</a></li>
+<li><a href="Codigo"> Código Fonte (.ino)</a></li>
 
 # Aplicativo para Smartphone
 

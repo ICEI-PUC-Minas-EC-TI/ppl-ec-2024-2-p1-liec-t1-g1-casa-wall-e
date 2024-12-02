@@ -1,24 +1,18 @@
 cff-version: 1.0.1
 message: "Please cite this project using these metadata."
 authors:
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names: 
-  - family-names: 
-    given-names:
+  - family-names: "Ribeiro"
+    given-names: "João"
+  - family-names: "Attie"
+    given-names: "Luiz"
+  - family-names: "Diniz"
+    given-names: "Pedro"
   - name-suffix: "Professor"
-    given-names: 
-    family-names:
+    given-names: "Soares"
+    family-names: "Felipe"
     affiliation: "PUC Minas"
-title: ""
+title: "Projeto Casa Inteligente"
 version: 1.0.0
-date-released: 2024-01-14
-url: ""
+date-released: 2024-12-02
+url: "https://github.com/ICEI-PUC-Minas-EC-TI/ppl-ec-2024-2-p1-liec-t1-g1-casa-wall-e"
 
