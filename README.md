@@ -1,31 +1,54 @@
-# TÍTULO DO PROJETO
+<h1 align="center">Projeto Casa Inteligente</h1>
 
-`CAMPUS/UNIDADE`
+`CAMPUS Lourdes/ Praça da liberdade`
 
-`CURSO`
+`Engenharia de Computação`
 
-`SEMESTRE`
+`1° Semestre`
 
-`DISCIPLINA`
+`Laboratório de Introdução à Engenharia de Computação`
+
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 
-## Integrantes
+## Ferramentas e Tecnologias
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7YgpVL5SmYjtBHrZ_bqsaDHsVNhnC9PBdg&s" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+
+
+## Integrantes do Projeto
+
+- `João Pedro Mendanha Ribeiro`
+
+- `Luiz Felipe Santos Attie`
+
+- `Pedro Henrique Simao Diniz`
+
 
 ## Orientador
 
-* Nome completo do professor 1
+- `Felipe Augusto Lara Soares`
 
-## Resumo
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+---
 
-# Código (do arduino ou esp32)
+
+## Descrição do Projeto
+
+O projeto **Casa Inteligente** tem como objetivo criar um sistema de automação residencial que combine hardware e software para facilitar a interação com dispositivos domésticos. Ele utiliza sensores para monitoramento ambiental, sistemas automatizados para controle de irrigação e um aplicativo que centraliza todas as funções. Com isso, busca proporcionar aos usuários mais comodidade, eficiência energética e praticidade no dia a dia.
+
+### Principais objetivos:
+- Simular um sistema inteligente de automação residencial.
+- Integrar sensores e dispositivos com conectividade IoT.
+- Desenvolver um aplicativo intuitivo para controle e monitoramento remoto.
+
+
+---
+
+
+# Código (Esp32)
 
 <li><a href="Codigo/README.md"> Código Fonte (.ino)</a></li>
 
@@ -33,12 +56,17 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 <li><a href="App/README.md"> Aplicativo </a></li>
 
+
+---
+
+
 # Apresentação
 
 <ol>
 <li><a href="Apresentacao/README.md"> Vídeo do Funcionamento</a></li>
 <li><a href="Apresentacao/README.md"> Fotos do Projeto</a></li>
 </ol>
+
 
 # Manual de Utilização
 
