@@ -12,8 +12,7 @@ O projeto Casa Inteligente tem os seguintes objetivos principais:
 
 - Desenvolver um sistema de automação residencial que permita o controle remoto de dispositivos elétricos, como bombas hidráulicas e luzes, por meio de um aplicativo móvel.
 - Implementar sensores e atuadores para aumentar a eficiência e a segurança da residência, incluindo sensores de movimento, umidade do solo e obstáculos.
-- Fornecer feedback visual e sonoro em tempo real para facilitar o monitoramento e a interação com o sistema.
-Criar uma documentação detalhada no GitHub para facilitar a replicação e o aprimoramento do projeto por outros entusiastas. 
+- Fornecer feedback visual e sonoro em tempo real para facilitar o monitoramento e a interação com o sistema. 
 
 ## Justificativa
 

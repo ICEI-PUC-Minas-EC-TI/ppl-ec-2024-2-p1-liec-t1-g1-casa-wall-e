@@ -1,26 +1,28 @@
 ## Gerenciamento de Projeto
 
+O projeto Casa Inteligente foi dividido em três etapas principais: compra de materiais, criação da estrutura física e lógica, e desenvolvimento final. Devido à distância entre os integrantes do grupo, os encontros presenciais não foram frequentes. Por isso, cada membro ficou responsável por uma parte específica do projeto.
+
+A casa foi projetada e desenhada por Pedro Henrique e Luiz Felipe, que também construíram a estrutura de cabos. A parte de software foi planejada em conjunto por todos os integrantes, mas desenvolvida por João Pedro. Além disso, o sistema do ESP32, incluindo toda a lógica de funcionamento, foi projetado exclusivamente por João Pedro.
 
 # Metodologia
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Foi utilizado o Planner para saber o que deve ser feito e o WhatsApp como ferramenta de comunicação para gerir o projeto. Neles definimos as datas de entrega e tanto do projeto e também de outras partes desenvolvidas para que pudessem ser continuadas até o termino.
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+- Scrum Master: João Pedro Mendanha Ribeiro;
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Aluno 1;
-- Equipe de Desenvolvimento: Aluno 1, Aluno 2, Aluno 3;
+- Equipe de Desenvolvimento: Luiz Felipe Santos Attie, Pedro Henrique Simao Diniz;
 
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. Cole aqui um print do quadro Kanban utilizado pelo grupo.
+![Foto do projeto](Documentacao\Quadro Kanban.png)
  
 
 ### Ferramentas
 
 As ferramentas utilizadas no projeto foram:
 
-- Liste aqui as ferramentas utilizadas para desenvolvimento do projeto (como por exemplo: Arduino IDE, APP Inventor, trello e outros). Obs: não é para listar aqui os componentes utilizados.
+- Ferramentas utilizadas para desenvolvimento do projeto:
+Arduino IDE, APP Inventor, GitHub, Git, Planner e WhatsApp.
