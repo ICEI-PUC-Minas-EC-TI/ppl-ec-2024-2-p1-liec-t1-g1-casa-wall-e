@@ -17,7 +17,7 @@ Foi utilizado o Planner para saber o que deve ser feito e o WhatsApp como ferram
 
 ### Processo
 
-![Foto do projeto](Documentacao\Quadro Kanban.png)
+<img src="Documentacao\Quadro Kanban.png" width="auto" height="500">
  
 
 ### Ferramentas

@@ -49,9 +49,9 @@ Todas as telas estabelecem uma conexão direta via bluetooth com o Esp32, fazend
 
 A casa foi projetada e desenhada por Pedro Henrique e Luiz Felipe, que também construíram a estrutura de cabos. A parte de software foi planejada em conjunto por todos os integrantes, mas desenvolvida por João Pedro. Além disso, o sistema do ESP32, incluindo toda a lógica de funcionamento, foi projetado exclusivamente por João Pedro.
 
-![Foto do projeto](Documentacao\img-cabos-casa.JPG)
+<img src="Documentacao\img-cabos-casa.JPG" width="auto" height="500">
 
-![Foto do projeto](Documentacao\img-desenvolvimento-casa.JPG)
+<img src="Documentacao\img-desenvolvimento-casa.JPG" width="auto" height="500">
 
 ### Desenvolvimento do Código
 
@@ -61,4 +61,4 @@ Foi estabelecido no projeto que seria mais fácil realizar a lógica no Esp32 e 
 
 O aplicativo contém a conexão bluetooth e depois que conecta uma vez não é necessário mais fazer a reconexão, pois ele armazena os dados do bluetooth em um banco de dados do APP Inventor chamado TinyDB.
 
-![Foto do projeto](Documentacao\fluxograma-conexão.png)
+<img src="Documentacao\fluxograma-conexão.png" width="auto" height="500">
