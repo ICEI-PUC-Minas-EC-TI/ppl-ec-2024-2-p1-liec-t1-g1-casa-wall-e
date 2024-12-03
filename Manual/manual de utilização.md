@@ -1,9 +1,9 @@
 
 ## Instruções de utilização
 
-##Configuração de conexão no Esp32:
+# Configuração de conexão no Esp32:
 
-#Portas arduino:
+# Portas arduino:
 
 - LEDS
 15 - led 1
@@ -21,7 +21,7 @@
 5 - Buzzer
 
 
-#Comunicação Entre ESP32 e App inventor:
+# Comunicação Entre ESP32 e App inventor:
 
 Foi definodo para que o App Inventor enviasse 1 byte de sinal bluetooth em decimal para o arduino receber,
 então no script (../src/src-C++/main.c++) vai receber números inteiros apartir da condição SerialBT.read().
@@ -53,7 +53,7 @@ Deligar:11
 
 ---
 
-##Importação de código App Inventor:
+## Importação de código App Inventor:
 
 Baixe o arquivo .aia e importe para o APP Inventor.
 
@@ -63,7 +63,7 @@ Depois conecte com o celular ao aplicativo no via QRcode.
 
 ---
 
-##Configuração de Esp32 e compilação
+## Configuração de Esp32 e compilação
 
 Para usar e programar ESP32 na IDE do Arduino, precisamos primeiro que ele reconheça os
 modelos da placa. Para isso, primeiramente devemos ir até as Preferências (Arquivo/Preferências) e
@@ -84,7 +84,7 @@ na ESP.
 Por fim, basta você selecionar a porta a qual a ESP está conectada (vá em Ferramentas/Porta/”porta
 que Esp32 está conectado”)
 
-#Compilação
+# Compilação
 
 - Baixe o arquivo .ino
 
