@@ -63,8 +63,8 @@ O projeto **Casa Inteligente** tem como objetivo criar um sistema de automação
 # Apresentação
 
 <ol>
-<li><a href="Apresentacao/README.md"> Vídeo do Funcionamento</a></li>
-<li><a href="Apresentacao/README.md"> Fotos do Projeto</a></li>
+<li><a href="Apresentacao"> Vídeo do Funcionamento</a></li>
+<li><a href="Apresentacao"> Fotos do Projeto</a></li>
 </ol>
 
 
